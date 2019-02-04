@@ -1,0 +1,20 @@
+.header {
+    font-size: 2em;
+}
+
+.main {
+    padding-top: 5em;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.sticky .btn{
+    position: fixed;
+    right: 10px;
+}
+
+.sticky ul{
+    position: fixed;
+}

@@ -1,0 +1,135 @@
+[{
+    "title" : "Hip-ups",
+    "sets" : 3,
+    "reps" : 20,
+    "weight": "BW",
+    "description" : "Lay on back, bring knees to chest and kick up",
+    "type" : "core"
+}, {
+    "title":"Bird Dog",
+    "sets":2,
+    "reps":20,
+    "weight":"BW",
+    "description":" All 4's / Raise Opp Arm Opp Leg Parrallel to Ground",
+    "type":"core"
+}, {
+    "title":"Quadruped Rotation",
+    "sets":2,
+    "reps":5,
+    "weight":"BW",
+    "description":"All 4's Take Hand Behind Head / Rotate Elbow Down & Up",
+    "type":"core"
+}, {
+    "title":"Rip Trainer Right Hook",
+    "sets":3,
+    "reps":12,
+    "weight":"BW",
+    "description":"Step Out Holding Bar in Hands / Keep Tight to Chest / Rotate & Punch Through",
+    "type":"core"
+}, {
+    "title":"Leg Extension",
+    "sets":3,
+    "reps":20,
+    "weight":"25-30lbs",
+    "description":"No Gap Behind Knee",
+    "type":"lower"
+}, {
+    "title":"Swiss Ball Hamstring Curl",
+    "sets":3,
+    "reps":20,
+    "weight":"BW",
+    "description":"Lay on Back / Feet on Ball / Hip Up / Hands to Sides / Pull Heels to Butt",
+    "type":"lower"
+}, {
+    "title":"Walking Lunges w/ DB's on Shoulders",
+    "sets":3,
+    "reps":24,
+    "weight":"10lbs",
+    "description":"Place DB's on Shoulders (Glute Focus)",
+    "type":"lower"
+}, {
+    "title":"KB Deadlift",
+    "sets":3,
+    "reps":12,
+    "weight":"14-16kg",
+    "description":"Drop Hips Back Each Rep / Chest Up / Chin Tucked / Engage Core",
+    "type":"lower"
+}, {
+    "title":"Bent Over Lateral Raise w/ DB",
+    "sets":3,"reps":15,
+    "weight":"7.5lbs",
+    "description":"Hinge / Chest Up Chin Tucked / Raise DB to Sides",
+    "type":"upper"
+}, {
+    "title":"Singles on Rope",
+    "sets":2,"reps":20,
+    "weight":"BW",
+    "description":"Alt Rope w/ Hands",
+    "type":"upper"
+}, {
+    "title":"Rear Delt Fly w/ DB",
+    "sets":3,"reps":15,
+    "weight":"5lbs",
+    "description":"Hands Tight to Sides of DB / Similar to B.O Lateral Raise Just Overhand Instead of Side-hand",
+    "type":"upper"
+}, {
+    "title":"Monkey's Rope",
+    "sets":3,"reps":20,
+    "weight":"BW",
+    "description":"Smash Hands Together",
+    "type":"upper"
+}, {
+    "title":"Front Raise w/ DB's",
+    "sets":3,
+    "reps":15,
+    "weight":"7.5lbs",
+    "description":"Stand Tall / Shoulders Back & Down / Side-hand to Slight Overhand ",
+    "type":"upper"
+}, {
+    "title":"Front Raise w/ DB's",
+    "sets":3,
+    "reps":15,
+    "weight":"7.5lbs",
+    "description":"Stand Tall / Shoulders Back & Down / Side-hand to Slight Overhand ",
+    "type":"upper"
+}, {
+    "title":"Doubles Rope",
+    "sets":3,
+    "reps":20,
+    "weight":"BW",
+    "description":"Slap ropes down",
+    "type":"upper"
+}, {
+    "title":"V- Bar Tricep Extension",
+    "sets":3,"reps":20,
+    "weight":"12.5lbs",
+    "description":"Cable @ Top / V-Bar / Elbows Slightly Forward",
+    "type":"upper"
+}, {
+    "title":"Straight Bar Curls",
+    "sets":3,
+    "reps":15,
+    "weight":"10lbs",
+    "description":"Cable @ Lowest Setting / Keep Shoulders Back & Down",
+    "type":"upper"
+}, {
+    "title":"Kneeling Single Arm Press",
+    "sets":3,
+    "reps":12,
+    "weight":"8-12lbs",
+    "description":"Right Knee Down / Left Leg Forward / Right Arm Press",
+    "type":"upper"
+}, {"title":"Kneeling Single Arm Row (45 Degrees Elbow Out)",
+    "sets":3,
+    "reps":12,
+    "weight":"18",
+    "description":"Right Knee Down / Right Hand Down / Left Arm Row",
+    "type":"upper"
+}, {
+    "title":"Skull Crushers w/ DB's",
+    "sets":3,
+    "reps":15,
+    "weight":"8lbs",
+    "description":"Arms Locked Out Laying on Back / Side-hand / Let DB Back by Head / Extension",
+    "type":"upper"
+}]
